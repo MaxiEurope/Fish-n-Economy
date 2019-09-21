@@ -4,7 +4,7 @@
 
 **Earn money by catching adorable fish and fighting other users.**
 
-[![Discord Bots](https://discordbots.org/api/widget/status/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/servers/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/upvotes/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/owner/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171)
+![Crystalbotlist](https://crystalbotlist.uk/api/bot/486926264800903171/widget/status) [![Discord Bots](https://discordbots.org/api/widget/status/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/servers/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/upvotes/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171) [![Discord Bots](https://discordbots.org/api/widget/owner/486926264800903171.svg)](https://discordbots.org/bot/486926264800903171)
 
 ## **What am I ?**
 
